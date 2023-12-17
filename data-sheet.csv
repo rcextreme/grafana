@@ -1,0 +1,15 @@
+project,issue type,assignee,status,time spent
+Ticket1,Story,raf,in progress,2
+Ticket2,task,josh,in progress,3
+Ticket3,Story,mike,in progress,4
+Ticket4,task,naaze,To Do,2
+Ticket5,task,raf,To Do,1
+Ticket6,Story,josh,Done,3
+Ticket7,Story,mike,Done,2
+Ticket8,Story,naaze,in progress,1
+Ticket9,task,josh,To Do,44
+Ticket10,task,raf,To Do,3
+Ticket11,task,josh,done,2
+Ticket12,Story,mike,to Do,6
+Ticket13,task,naaze,done,4
+Ticket14,Story,josh,done,2
