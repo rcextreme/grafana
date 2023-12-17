@@ -1,15 +1,15 @@
-project,issue type,assignee,status,time spent
-Ticket1,Story,raf,in progress,2hrs
-Ticket2,task,josh,in progress,3hrs
-Ticket3,Story,mike,in progress,4hrs
-Ticket4,task,naaze,To Do,2hrs
-Ticket5,task,raf,To Do,1hrs
-Ticket6,Story,josh,Done,3hrs
-Ticket7,Story,mike,Done,2hrs
-Ticket8,Story,naaze,in progress,1hrs
-Ticket9,task,josh,To Do,44hrs
-Ticket10,task,raf,To Do,3hrs
-Ticket11,task,josh,done,2hrs
-Ticket12,Story,mike,to Do,6hrs
-Ticket13,task,naaze,done,4hrs
-Ticket14,Story,josh,done,2hrs
+project,issue type,assignee,status
+Ticket1,Story,raf,in progress
+Ticket2,task,josh,in progress
+Ticket3,Story,mike,in progress
+Ticket4,task,naaze,To Do
+Ticket5,task,raf,To Do
+Ticket6,Story,josh,Done
+Ticket7,Story,mike,Done
+Ticket8,Story,naaze,in progress
+Ticket9,task,josh,To Do
+Ticket10,task,raf,To Do
+Ticket11,task,josh,done
+Ticket12,Story,mike,to Do
+Ticket13,task,naaze,done
+Ticket14,Story,josh,done
