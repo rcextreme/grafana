@@ -1,4 +1,4 @@
-project,issue type,assignee,status
+Project,Issue Type,Assignee,Status
 Ticket1,Story,raf,in progress
 Ticket2,task,josh,in progress
 Ticket3,Story,mike,in progress
@@ -9,7 +9,7 @@ Ticket7,Story,mike,Done
 Ticket8,Story,naaze,in progress
 Ticket9,task,josh,To Do
 Ticket10,task,raf,To Do
-Ticket11,task,josh,done
-Ticket12,Story,mike,to Do
-Ticket13,task,naaze,done
-Ticket14,Story,josh,done
+Ticket11,task,josh,Done
+Ticket12,Story,mike,To Do
+Ticket13,task,naaze,Done
+Ticket14,Story,josh,Done
